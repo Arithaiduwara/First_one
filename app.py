@@ -1,2 +1,2 @@
-import streamlit as st
-st.title('hello world')
+import streamlit
+st.title('Hello World')
