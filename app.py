@@ -1,2 +1,2 @@
 import streamlit as st
-st.title('COVID19')
+st.title('Wellcome To ServiceMate')
